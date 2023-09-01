@@ -1,7 +1,5 @@
-# Card-Matching-Game
-Using HTML 5, CSS3 &amp; JAVASCRIPT
-
-ABDULFETTAH SANCAKLI
+# Memory Game with Card Matching
+## Using Html &amp; Css &amp; Javascript
 
 1. In Phase One, as mentioned in the document, there are question marks and real pictures under question marks there are real pictures
 but they haven't been randomly placed yet.
@@ -20,3 +18,12 @@ I placed the show all button to show the random distribution of the pictures.
 I did hide.(While all images appear at the same time, random placement status can be observed live with the Mix.)
 As mentioned in the document, the game starts with start and the stopwatch stops when all the pictures are guessed correctly. Easy way
 show all locations to be observed by testing and then pressing hide a game can be finished quickly.
+
+
+## Screenshots :camera:
+-----------------------------------
+# ALL GAME
+![AllGame](https://github.com/abdulfettahsancakli/Card-Matching-Game/blob/main/Game.png)
+
+# SHOW ALL Button
+![ShowAllButton](https://github.com/abdulfettahsancakli/Card-Matching-Game/blob/main/ShowAll.png)
