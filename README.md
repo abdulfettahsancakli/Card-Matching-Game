@@ -22,8 +22,8 @@ show all locations to be observed by testing and then pressing hide a game can b
 
 ## Screenshots :camera:
 -----------------------------------
-# ALL GAME
-![AllGame](https://github.com/abdulfettahsancakli/Card-Matching-Game/blob/main/Game.png)
+# Game Screen
+![GameScreen](https://github.com/abdulfettahsancakli/Card-Matching-Game/blob/main/Game.png)
 
-# SHOW ALL Button
+# Show All Button
 ![ShowAllButton](https://github.com/abdulfettahsancakli/Card-Matching-Game/blob/main/ShowAll.png)
